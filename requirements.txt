@@ -1,0 +1,7 @@
+Nececssary Libraries Needed for the project
+1. regex
+2. xlsxwriter 
+3. pandas
+4. datetime (built in)
+5. sys (built in)
+6. telnetlib (built in, but deprecating in future version)
